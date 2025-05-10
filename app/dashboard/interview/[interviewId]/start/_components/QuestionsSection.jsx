@@ -45,7 +45,7 @@ const QuestionsSection = ({ mockInterviewQuestions, activeQuestionIndex }) => {
               <strong>Note:</strong>
             </h2>
             <h2 className="text-sm text-primary my-2">
-              {process.env.NEXT_PUBLIC_QUESTION_NOTE || "For questions related to tech stacks, try to explain each component clearly and briefly with its specific role."}
+              {process.env.NEXT_PUBLIC_QUESTION_NOTE || "During a mock interview, users can turn their webcam and microphone on or off as needed. The session can be recorded, allowing users to answer questions naturally and review their performance later. This helps improve speaking confidence and body language for real interviews."}
             </h2>
           </div>
         </div>

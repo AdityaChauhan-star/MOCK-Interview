@@ -56,7 +56,7 @@ const Dashboard = () => {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Total Interviews</p>
-                <h3 className="text-2xl font-semibold text-foreground">25</h3>
+                <h3 className="text-2xl font-semibold text-foreground">32</h3>
               </div>
             </div>
           </div>
@@ -69,7 +69,7 @@ const Dashboard = () => {
               </div>
               <div>
                 <p className="text-sm text-muted-foreground">Completed</p>
-                <h3 className="text-2xl font-semibold text-foreground">18</h3>
+                <h3 className="text-2xl font-semibold text-foreground">30</h3>
               </div>
             </div>
           </div>

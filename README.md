@@ -17,11 +17,11 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AdityaChauhan-star/AI-Mock-Interview
+   git clone https://github.com/AdityaChauhan-star/Mock-Interview
 
 2. Navigate to the project directory:
    ```bash
-   cd ai-mock-interview
+   cd MOCK-Interview
 
 3. Install dependencies by running: `npm install` or `yarn install`
 
@@ -54,6 +54,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request to the main repository.
 
 
-## Support
+##(https://github.com/AdityaChauhan-star/MOCK-Interview.git) Support
 
 Show your support by 🌟 the project!!
+# THANK-YOU

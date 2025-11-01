@@ -130,7 +130,7 @@ const page = () => {
                   <p className="text-gray-600">
                     "This is a must-use before any real interview. Helps reduce anxiety and improves articulation."
                   </p>
-                  <h4 className="mt-4 text-lg font-semibold text-blue-600">-Ankit Yadav</h4>
+                  <h4 className="mt-4 text-lg font-semibold text-blue-600">-Abhay Baghel</h4>
                 </div>
               </div>
             </div>

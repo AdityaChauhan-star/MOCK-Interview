@@ -39,9 +39,9 @@ const page = () => {
         </header>
 
         {/* Hero Section */}
-        <section className="flex flex-col items-center justify-center text-center py-20 bg-gradient-to-r from-gray-900 to-gray-500  px-6 md:px-0">
-          <h2 className="text-4xl md:text-5xl font-bold text-white">Ace Your Next Interview</h2>
-          <p className="mt-4 text-lg md:text-xl text-white ">Practice with AI-powered mock interviews and get personalized feedback</p>
+        <section className="flex flex-col items-center justify-center text-center py-20 bg-gradient-to-r from-gray-800 to-gray-400  px-6 md:px-0">
+          <h2 className="text-4xl md:text-5xl font-bold text-black">Ace Your Next Interview</h2>
+          <p className="mt-4 text-lg md:text-xl text-black ">Practice with AI-powered mock interviews and get personalized feedback</p>
           <div className="mt-6 flex flex-col md:flex-row">
             <a
               href="/dashboard"
